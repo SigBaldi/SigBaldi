@@ -1,2 +1,2 @@
 ### Hi, I'm Daniele
-I'm a Software Engineer from Sardinia. I love creating with Web Technologies and solving problems with code.
+I'm a Software Engineering Manager with 2 decades of technical background in Fullstack, Frontend, JavaScript, Typescript technologies.
