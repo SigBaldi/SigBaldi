@@ -1,2 +1,2 @@
-### Hi, I'm Daniele
-I'm a Lead Engineer with 2 decades of technical background in Fullstack, Frontend, JavaScript, and Typescript technologies.
+### Hi, I'm Daniele!
+I'm a Software Development Manager with 2 decades of technical background in Fullstack, Frontend, JavaScript, and Typescript technologies.
